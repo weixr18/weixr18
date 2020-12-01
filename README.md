@@ -1,6 +1,4 @@
-## Description
-
-Just love pure coding.
+# Just love pure coding.
 
 ## Reposistory list
 
@@ -36,3 +34,7 @@ Just love pure coding.
 + GPUApplyPage
 + DQNFlappy
 + OCD_Slicer_Plugin
+
+## Contact me
+
+Send me email to weixr0605@sina.com
