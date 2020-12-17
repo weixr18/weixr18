@@ -25,12 +25,14 @@
   + [DigitalImage (python)](https://github.com/weixr18/DigitalImages)
 + PRML
   + [PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise)
+  + [CellSegmentation(python)](https://github.com/weixr18/CellSegmentation)
 + Numerical Analysis
   + [Numeric-SI (python)](https://github.com/weixr18/Numeric-SI)
++ Artificial Inteligence
+  + [CIFAR-Classify(python)](https://github.com/weixr18/CIFAR-Classify)
 
 ### Others
 
-+ CellSegmentation
 + GPUApplyPage
 + DQNFlappy
 + OCD_Slicer_Plugin
