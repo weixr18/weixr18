@@ -2,12 +2,9 @@
 
 ## Reposistory list
 
-### Personal projects
-
-+ [Xiniture (Vue)](https://github.com/weixr18/Xiniture)
-
 ### Personal exploring
 
++ [Xiniture (Vue)](https://github.com/weixr18/Xiniture)
 + [CUDA-Test (CUDA/C)](https://github.com/weixr18/CUDA-Test)
 + [W-Chatroom (C++)](https://github.com/weixr18/W-Chatroom)
 
@@ -18,12 +15,16 @@
   + [CIFAR-Classify(python)](https://github.com/weixr18/CIFAR-Classify)
 + PRML
   + [CellSegmentation(python)](https://github.com/weixr18/CellSegmentation)
++ Computer Simulation
+  + [Virus-Spread (C++/Python)](https://github.com/weixr18/Virus-Spread)
 + Modern Electronics Technology Experiment
   + [BLE-Glow-Hockey (C/Verilog/Java/Python)](https://github.com/weixr18/BLE-Glow-Hockey)
 + C++ language programming
   + [EasyTranslation (C++)](https://github.com/weixr18/EasyTranslation)
 + Computer Principles and Applications
   + [SingleCycleCPU (Verilog)](https://github.com/weixr18/SingleCycleCPU)
+
+
 
 ### Course assignments
 
