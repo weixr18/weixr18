@@ -7,6 +7,7 @@
 + [Xiniture (Vue)](https://github.com/weixr18/Xiniture)
 + [CUDA-Test (CUDA/C)](https://github.com/weixr18/CUDA-Test)
 + [W-Chatroom (C++)](https://github.com/weixr18/W-Chatroom)
++ [MNIST-pytorch (python)](https://github.com/weixr18/MNIST-pytorch)
 
 ### Course projects
 
