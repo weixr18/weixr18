@@ -37,7 +37,7 @@
   + [PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise)
 + Numerical Analysis
   + [Numeric-SI (python)](https://github.com/weixr18/Numeric-SI)
-  + [Euler-method (python)](https://github.com/weixr18/Euler-method)
+  + [Euler-method (C++)](https://github.com/weixr18/Euler-method)
 
 ### Others
 
