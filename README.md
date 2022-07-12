@@ -2,6 +2,16 @@
 
 [![weixr18's GitHub stats](https://github-readme-stats.vercel.app/api?username=weixr18)](https://github.com/anuraghazra/github-readme-stats)
 
+## Star Projects
+
+### Pi-SLAM
+
+[Pi-SLAM (C++)](https://github.com/weixr18/Pi-SLAM) is my undergraduate degree final project. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
+
+### (Unpublished Project)
+
+A publicly available project for summarizing machine learning knowledge, to be released upon completion.
+
 ## Reposistory list
 
 ### Personal exploring
