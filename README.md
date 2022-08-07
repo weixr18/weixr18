@@ -4,13 +4,14 @@
 
 ## Star Projects
 
+
+### MLAN
+
+[MLAN](https://github.com/weixr18/MLAN) is a Machine Learning algorithm organizing project (Chinese) that contains 66 important algorithms for 34 machine learning models, listing the computational procedures and derivations of these algorithms. 
+
 ### Pi-SLAM
 
 [Pi-SLAM (C++)](https://github.com/weixr18/Pi-SLAM) is my undergraduate degree final project. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
-
-### (Unpublished Project)
-
-A publicly available project for summarizing machine learning knowledge, to be released upon completion.
 
 ## Reposistory list
 
