@@ -58,4 +58,4 @@
 
 ## Contact me
 
-Send me email to weixr0605@sina.com
+Please send me an email to weixr0605@sina.com
