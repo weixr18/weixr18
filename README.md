@@ -39,38 +39,9 @@
 
 [Xiniture (Vue)](https://github.com/weixr18/Xiniture). Try to build a simple website game with Vue and django. They are smooth companions.
 
-### MyPushBox
+### PythonMLExercises
 
-[MyPushBox (C#)](https://github.com/weixr18/MyPushBox), classic 2D PushBox game with an AI solving algorithm based on state space searching. Windows UWP APP. Course project.
- 
-### CUDA-Test
-
-[CUDA-Test (CUDA/C)](https://github.com/weixr18/CUDA-Test). Learned to use CUDA develop tools.
-
-### W-Chatroom
-
-[W-Chatroom (C++)](https://github.com/weixr18/W-Chatroom). Learned multithread C++ programming.
-
-### EasyTranslation
-
-[EasyTranslation (C++)](https://github.com/weixr18/EasyTranslation). Qt C++ OOP programming training project. Course project.
-
-
-## Course assignments
-
-+ Digital Image Processing
-  + [DigitalImage (python)](https://github.com/weixr18/DigitalImages)
-+ PRML
-  + [PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise)
-+ Numerical Analysis
-  + [Numeric-SI (python)](https://github.com/weixr18/Numeric-SI)
-  + [Euler-method (C++)](https://github.com/weixr18/Euler-method)
-
-## Others
-
-+ GPUApplyPage
-+ DQNFlappy
-+ OCD_Slicer_Plugin
+[PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise) is a collection of basic ML acoding exercises. Maybe useful to beginners.
 
 ## Contact me
 
