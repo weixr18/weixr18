@@ -4,7 +4,6 @@
 
 ## Star Projects
 
-
 ### MLAN
 
 [MLAN](https://github.com/weixr18/MLAN) is a Machine Learning algorithm organizing project (Chinese) that contains 66 important algorithms for 34 machine learning models, listing the computational procedures and derivations of these algorithms. 
@@ -17,34 +16,47 @@
 
 [CupCake (C++)](https://github.com/weixr18/CupCake) is a toy-level C Compiler project. My goal is a component-complete C subset compiler that can generate assembly code for the target platform (tentatively RISC-V) from C source code. Instead of implementing all C features, I simply want to compile some of the simplest and non-dualistic syntaxes, i.e. a subset of C.
 
+
 ## Reposistory list
 
-### Personal exploring
+### MNIST-pytorch
 
-+ [Xiniture (Vue)](https://github.com/weixr18/Xiniture)
-+ [CUDA-Test (CUDA/C)](https://github.com/weixr18/CUDA-Test)
-+ [W-Chatroom (C++)](https://github.com/weixr18/W-Chatroom)
-+ [MNIST-pytorch (python)](https://github.com/weixr18/MNIST-pytorch)
+[MNIST-pytorch (python)](https://github.com/weixr18/MNIST-pytorch). Multi ML/DL models trained and tested on MNIST-like datasets.
 
-### Course projects
+### Virus-Spread
 
-+ Artificial Inteligence
-  + [MyPushBox (C#)](https://github.com/weixr18/MyPushBox)
-  + [CIFAR-Classify(python)](https://github.com/weixr18/CIFAR-Classify)
-+ PRML
-  + [CellSegmentation(python)](https://github.com/weixr18/CellSegmentation)
-+ Computer Simulation
-  + [Virus-Spread (C++/Python)](https://github.com/weixr18/Virus-Spread)
-+ Modern Electronics Technology Experiment
-  + [BLE-Glow-Hockey (C/Verilog/Java/Python)](https://github.com/weixr18/BLE-Glow-Hockey)
-+ C++ language programming
-  + [EasyTranslation (C++)](https://github.com/weixr18/EasyTranslation)
-+ Computer Principles and Applications
-  + [SingleCycleCPU (Verilog)](https://github.com/weixr18/SingleCycleCPU)
+[Virus-Spread (C++/Python)](https://github.com/weixr18/Virus-Spread) is a visualizable computer simulation of a virus spreading under SEIR model. Coded in C++ and pyQt, it is efficient for computing and easy to interact with. Course project.
+
+### Single-Cycle CPU
+
+[SingleCycleCPU (Verilog)](https://github.com/weixr18/SingleCycleCPU) is a MIPS architrcture CPU inplemented in Verilog. Only support a few machine instructions. Course project.
+
+### BLE-Glow-Hockey
+
+[BLE-Glow-Hockey (C/Verilog/Java/Python)](https://github.com/weixr18/BLE-Glow-Hockey) is a Glow Hockey game system consists of an Android APP, an singlechip computer server and multiple hardware attachments which ensures interacting with pysical world. Novel idea. Course project. Multiple language used on different devices.
+
+### Xiniture
+
+[Xiniture (Vue)](https://github.com/weixr18/Xiniture). Try to build a simple website game with Vue and django. They are smooth companions.
+
+### MyPushBox
+
+[MyPushBox (C#)](https://github.com/weixr18/MyPushBox), classic 2D PushBox game with an AI solving algorithm based on state space searching. Windows UWP APP. Course project.
+ 
+### CUDA-Test
+
+[CUDA-Test (CUDA/C)](https://github.com/weixr18/CUDA-Test). Learned to use CUDA develop tools.
+
+### W-Chatroom
+
+[W-Chatroom (C++)](https://github.com/weixr18/W-Chatroom). Learned multithread C++ programming.
+
+### EasyTranslation
+
+[EasyTranslation (C++)](https://github.com/weixr18/EasyTranslation). Qt C++ OOP programming training project. Course project.
 
 
-
-### Course assignments
+## Course assignments
 
 + Digital Image Processing
   + [DigitalImage (python)](https://github.com/weixr18/DigitalImages)
@@ -54,7 +66,7 @@
   + [Numeric-SI (python)](https://github.com/weixr18/Numeric-SI)
   + [Euler-method (C++)](https://github.com/weixr18/Euler-method)
 
-### Others
+## Others
 
 + GPUApplyPage
 + DQNFlappy
