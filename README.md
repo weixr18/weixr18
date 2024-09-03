@@ -12,13 +12,13 @@
 
 [Pi-SLAM](https://github.com/weixr18/Pi-SLAM) is my undergraduate degree final project. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
 
-## Playground
-
-Trying to write programs in a variety of programming languages on a variety of devices, mostly just for fun！
-
 ### CupCake
 
 [CupCake (C++)](https://github.com/weixr18/CupCake) is a toy-level C Compiler project. My goal is a component-complete C subset compiler that can generate assembly code for the target platform (tentatively RISC-V) from C source code. Instead of implementing all C features, I simply want to compile some of the simplest and non-dualistic syntaxes, i.e. a subset of C.
+
+## Playground
+
+It's mostly all coursework projects, but it's fun!
 
 ### MNIST-pytorch
 
