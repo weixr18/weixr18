@@ -12,11 +12,6 @@
 
 [Pi-SLAM](https://github.com/weixr18/Pi-SLAM) is my undergraduate degree final project. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
 
-### TensorRT-Alpha-ROS
-
-[TensorRT-Alpha-ROS](https://github.com/weixr18/arena_camera_ros)
-
-
 ## Playground
 
 Trying to write programs in a variety of programming languages on a variety of devices, mostly just for fun！
