@@ -40,6 +40,10 @@ It's mostly all coursework projects, but it's fun!
 
 [PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise) is a collection of basic ML acoding exercises. Maybe useful to beginners.
 
+### EasyTranslation
+
+[EasyTranslation(C++)](https://github.com/weixr18/EasyTranslation): my first project with more than 8k lines of code. Allowed me to explore object-oriented design, code refactoring, develop coding habits and more.
+
 ## Contact me
 
 Please send me an email to weixr0605@sina.com
