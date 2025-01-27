@@ -12,37 +12,15 @@
 
 [Pi-SLAM](https://github.com/weixr18/Pi-SLAM) is my undergraduate degree final project. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
 
-### CupCake
-
-[CupCake (C++)](https://github.com/weixr18/CupCake) is a toy-level C Compiler project. My goal is a component-complete C subset compiler that can generate assembly code for the target platform (tentatively RISC-V) from C source code. Instead of implementing all C features, I simply want to compile some of the simplest and non-dualistic syntaxes, i.e. a subset of C.
-
 ## Playground
 
-It's mostly all coursework projects, but it's fun!
+### Chat-Analysis
 
-### MNIST-pytorch
-
-[MNIST-pytorch (python/CUDA)](https://github.com/weixr18/MNIST-pytorch). Multi ML/DL models trained and tested on MNIST-like datasets.
-
-### Virus-Spread
-
-[Virus-Spread (C++/Python)](https://github.com/weixr18/Virus-Spread) is a visualizable computer simulation of a virus spreading under SEIR model. Coded in C++ and pyQt, it is efficient for computing and easy to interact with. Course project.
+[Chat-Analysis](https://github.com/weixr18/Chat-Analysis.git) is a tool to analysis group chat messages.
 
 ### Single-Cycle CPU
 
-[SingleCycleCPU (Verilog)](https://github.com/weixr18/SingleCycleCPU) is a MIPS architrcture CPU inplemented in Verilog. Only support a few machine instructions. Course project.
-
-### BLE-Glow-Hockey
-
-[BLE-Glow-Hockey (C/Verilog/Java/Python)](https://github.com/weixr18/BLE-Glow-Hockey) is a Glow Hockey game system consists of an Android APP, an singlechip computer server and multiple hardware attachments which ensures interacting with pysical world. Novel idea. Course project. Multiple language used on different devices.
-
-### PythonMLExercises
-
-[PythonMLExercise (python)](https://github.com/weixr18/PythonMLExercise) is a collection of basic ML acoding exercises. Maybe useful to beginners.
-
-### EasyTranslation
-
-[EasyTranslation(C++)](https://github.com/weixr18/EasyTranslation): my first project with more than 8k lines of code. Allowed me to explore object-oriented design, code refactoring, develop coding habits and more.
+[SingleCycleCPU](https://github.com/weixr18/SingleCycleCPU) is a MIPS architrcture CPU inplemented in Verilog. Only support a few machine instructions. Course project.
 
 ## Contact me
 
