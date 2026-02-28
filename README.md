@@ -18,12 +18,6 @@
 
 ## 开源项目/Open Source Projects
 
-### Pi-SLAM
-
-[Pi-SLAM](https://github.com/weixr18/Pi-SLAM) is my undergraduate graduation project at Tsinghua University. It is a complete active monocular vision SLAM system that drives a Raspberry Pi + monocular camera omnidirectional cart, and the code is based on ORB-SLAM2.
-
-[Pi-SLAM](https://github.com/weixr18/Pi-SLAM) 是我在清华的本科毕业设计。它基于ORB-SLAM2，在树莓派4B上本地运行了一套全自主的单目视觉自主SLAM系统。
-
 ### Paper-Reader
 
 [Paper-Reader](https://github.com/weixr18/Paper-Reader) is a LLM-based tool for batch summarization of papers, which can be used for batch extraction of key information, etc.
@@ -35,6 +29,12 @@
 [Chat-Analysis](https://github.com/weixr18/Chat-Analysis) is a LLM-based tool for statistics and analysis of group chat records with online LLM APIs.
 
 [Chat-Analysis](https://github.com/weixr18/Chat-Analysis) 是一个基于LLM的群聊消息总结工具，可以对导出的聊天记录进行分段和总结。
+
+### Lyric-Extract
+
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) is a Japanese lyrics high-frequency word extraction tool based on LLM. It extracts the high-frequency words from the.lrc lyrics files and generates a vocabulary list, thereby helping you better learn Japanese.
+
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) 是基于LLM的日语歌词高频词提取工具。它从.lrc歌词文件中提取日语歌词中的高频词汇，生成词汇表，从而帮助你更好地学习日语。
 
 ## Contact me
 
