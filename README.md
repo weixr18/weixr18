@@ -16,7 +16,21 @@
 
 [机器学习算法笔记/MLAN](https://github.com/weixr18/MLAN) 是我撰写的一本机器学习算法工具书。本书系统梳理了66种重要算法与34种核心模型，通过清晰的数学推导与算法解析，助力初学者精准辨析概念，高效掌握算法原理。
 
-## 开源项目/Open Source Projects
+## 研究项目/Reaearch Projects
+
+### PolarFP-VINS
+
+[PolarFP-VINS](https://github.com/weixr18/PolarFP-VINS) is a VSLAM system based on VINS-Fusion with a rewritten frontend to support polarized cameras, enabling robust visual-inertial odometry using polarization information for improved feature tracking and localization. Runs on ROS1.
+
+[PolarFP-VINS](https://github.com/weixr18/PolarFP-VINS) 是一个基于 VINS-Fusion 的视觉惯性SLAM系统，前端经过重写以支持偏振相机。该系统利用偏振信息改进特征跟踪，在挑战性环境下实现更鲁棒的视觉惯性里程计。基于 ROS1 运行。
+
+## LLM 相关项目/LLM Projects
+
+### Lyric-Extract
+
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) is a Japanese lyrics high-frequency word extraction tool based on LLM. It extracts the high-frequency words from the.lrc lyrics files and generates a vocabulary list, thereby helping you better learn Japanese.
+
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) 是基于LLM的日语歌词高频词提取工具。它从.lrc歌词文件中提取日语歌词中的高频词汇，生成词汇表，从而帮助你更好地学习日语。
 
 ### Paper-Reader
 
@@ -29,12 +43,6 @@
 [Chat-Analysis](https://github.com/weixr18/Chat-Analysis) is a LLM-based tool for statistics and analysis of group chat records with online LLM APIs.
 
 [Chat-Analysis](https://github.com/weixr18/Chat-Analysis) 是一个基于LLM的群聊消息总结工具，可以对导出的聊天记录进行分段和总结。
-
-### Lyric-Extract
-
-[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) is a Japanese lyrics high-frequency word extraction tool based on LLM. It extracts the high-frequency words from the.lrc lyrics files and generates a vocabulary list, thereby helping you better learn Japanese.
-
-[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) 是基于LLM的日语歌词高频词提取工具。它从.lrc歌词文件中提取日语歌词中的高频词汇，生成词汇表，从而帮助你更好地学习日语。
 
 ## Contact me
 
