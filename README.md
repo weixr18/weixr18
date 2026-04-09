@@ -16,7 +16,7 @@
 
 [机器学习算法笔记/MLAN](https://github.com/weixr18/MLAN) 是我撰写的一本机器学习算法工具书。本书系统梳理了66种重要算法与34种核心模型，通过清晰的数学推导与算法解析，助力初学者精准辨析概念，高效掌握算法原理。
 
-## 研究项目/Reaearch Projects
+## 研究项目/Research Projects
 
 ### PolarFP-VINS
 
