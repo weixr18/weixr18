@@ -26,11 +26,17 @@
 
 ## LLM 相关项目/LLM Projects
 
-### Lyric-Extract
+### my-digital-life
 
-[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) is a Japanese lyrics high-frequency word extraction tool based on LLM. It extracts the high-frequency words from the.lrc lyrics files and generates a vocabulary list, thereby helping you better learn Japanese.
+[my-digital-life](https://github.com/weixr18/my-digital-life) is a personal knowledge base framework that enables your AI Agent to deeply understand you - not just remembering what you have said, but truly comprehending your way of thinking, values, and life experiences, so that it can become your digital double: your digital life.
 
-[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) 是基于LLM的日语歌词高频词提取工具。它从.lrc歌词文件中提取日语歌词中的高频词汇，生成词汇表，从而帮助你更好地学习日语。
+[my-digital-life](https://github.com/weixr18/my-digital-life) 是一个个人知识库框架，让你的 AI Agent 能够深度理解你——不只是记住你说过什么，而是真正理解你的思维方式、价值观和人生经历，以至于成为你在数字世界的分身：数字生命。
+
+### Chat-Analysis
+
+[Chat-Analysis](https://github.com/weixr18/Chat-Analysis) is a LLM-based tool for statistics and analysis of group chat records with online LLM APIs.
+
+[Chat-Analysis](https://github.com/weixr18/Chat-Analysis) 是一个基于LLM的群聊消息总结工具，可以对导出的聊天记录进行分段、总结、分析，生成个人聊天数据集。
 
 ### Paper-Reader
 
@@ -38,11 +44,11 @@
 
 [Paper-Reader](https://github.com/weixr18/Paper-Reader) 是一个基于LLM的论文批量总结工具，只需指定论文pdf所在文件夹，就可以批量全自动化进行全文总结，支持中/英文。您可以添加您自己的prompt以满足个性化需求。
 
-### Chat-Analysis
+### Lyric-Extract
 
-[Chat-Analysis](https://github.com/weixr18/Chat-Analysis) is a LLM-based tool for statistics and analysis of group chat records with online LLM APIs.
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) is a Japanese lyrics high-frequency word extraction tool based on LLM. It extracts the high-frequency words from the.lrc lyrics files and generates a vocabulary list, thereby helping you better learn Japanese.
 
-[Chat-Analysis](https://github.com/weixr18/Chat-Analysis) 是一个基于LLM的群聊消息总结工具，可以对导出的聊天记录进行分段和总结。
+[Lyric-Extract](https://github.com/weixr18/Lyric-Extract) 是基于LLM的日语歌词高频词提取工具。它从.lrc歌词文件中提取日语歌词中的高频词汇，生成词汇表，从而帮助你更好地学习日语。
 
 ## Contact me
 
