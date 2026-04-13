@@ -16,14 +16,6 @@
 
 [机器学习算法笔记/MLAN](https://github.com/weixr18/MLAN) 是我撰写的一本机器学习算法工具书。本书系统梳理了66种重要算法与34种核心模型，通过清晰的数学推导与算法解析，助力初学者精准辨析概念，高效掌握算法原理。
 
-## 研究项目/Research Projects
-
-### PolarFP-VINS
-
-[PolarFP-VINS](https://github.com/weixr18/PolarFP-VINS) is a VSLAM system based on VINS-Fusion with a rewritten frontend to support polarized cameras, enabling robust visual-inertial odometry using polarization information for improved feature tracking and localization. Runs on ROS1.
-
-[PolarFP-VINS](https://github.com/weixr18/PolarFP-VINS) 是一个基于 VINS-Fusion 的视觉惯性SLAM系统，前端经过重写以支持偏振相机。该系统利用偏振信息改进特征跟踪，在挑战性环境下实现更鲁棒的视觉惯性里程计。基于 ROS1 运行。
-
 ## LLM 相关项目/LLM Projects
 
 ### my-digital-life
